@@ -1,7 +1,0 @@
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CurrConv\obj\Debug\CurrConv.csprojResolveAssemblyReference.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CurrConv\obj\Debug\CurrConv.csproj.CoreCompileInputs.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CurrConv\bin\Debug\CurrConv.exe.config
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CurrConv\bin\Debug\CurrConv.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CurrConv\bin\Debug\CurrConv.pdb
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CurrConv\obj\Debug\CurrConv.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CurrConv\obj\Debug\CurrConv.pdb

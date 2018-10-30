@@ -1,7 +1,0 @@
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CelToFar\bin\Debug\CelToFar.exe.config
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CelToFar\bin\Debug\CelToFar.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CelToFar\bin\Debug\CelToFar.pdb
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CelToFar\obj\Debug\CelToFar.csprojResolveAssemblyReference.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CelToFar\obj\Debug\CelToFar.csproj.CoreCompileInputs.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CelToFar\obj\Debug\CelToFar.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CelToFar\obj\Debug\CelToFar.pdb

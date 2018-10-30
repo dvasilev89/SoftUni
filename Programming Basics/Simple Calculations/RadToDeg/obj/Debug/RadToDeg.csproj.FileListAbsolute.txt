@@ -1,6 +1,0 @@
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\RadToDeg\bin\Debug\RadToDeg.exe.config
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\RadToDeg\bin\Debug\RadToDeg.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\RadToDeg\bin\Debug\RadToDeg.pdb
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\RadToDeg\obj\Debug\RadToDeg.csproj.CoreCompileInputs.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\RadToDeg\obj\Debug\RadToDeg.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\RadToDeg\obj\Debug\RadToDeg.pdb

@@ -1,6 +1,0 @@
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\NameHi\obj\Debug\NameHi.csproj.CoreCompileInputs.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\NameHi\bin\Debug\NameHi.exe.config
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\NameHi\bin\Debug\NameHi.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\NameHi\bin\Debug\NameHi.pdb
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\NameHi\obj\Debug\NameHi.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\NameHi\obj\Debug\NameHi.pdb

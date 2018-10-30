@@ -1,6 +1,0 @@
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CirclePer\bin\Debug\CirclePer.exe.config
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CirclePer\bin\Debug\CirclePer.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CirclePer\bin\Debug\CirclePer.pdb
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CirclePer\obj\Debug\CirclePer.csproj.CoreCompileInputs.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CirclePer\obj\Debug\CirclePer.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\CirclePer\obj\Debug\CirclePer.pdb

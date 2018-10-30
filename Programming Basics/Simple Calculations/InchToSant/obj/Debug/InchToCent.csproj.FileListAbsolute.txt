@@ -1,7 +1,0 @@
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\InchToSant\bin\Debug\InchToSant.exe.config
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\InchToSant\bin\Debug\InchToSant.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\InchToSant\bin\Debug\InchToSant.pdb
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\InchToSant\obj\Debug\InchToCent.csprojResolveAssemblyReference.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\InchToSant\obj\Debug\InchToCent.csproj.CoreCompileInputs.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\InchToSant\obj\Debug\InchToSant.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\InchToSant\obj\Debug\InchToSant.pdb

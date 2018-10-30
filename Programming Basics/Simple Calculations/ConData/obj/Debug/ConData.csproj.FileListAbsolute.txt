@@ -1,7 +1,0 @@
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\ConData\obj\Debug\ConData.csprojResolveAssemblyReference.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\ConData\obj\Debug\ConData.csproj.CoreCompileInputs.cache
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\ConData\bin\Debug\ConData.exe.config
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\ConData\bin\Debug\ConData.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\ConData\bin\Debug\ConData.pdb
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\ConData\obj\Debug\ConData.exe
-D:\SoftUni\Visual Studio\Projects\SimpleCalc\ConData\obj\Debug\ConData.pdb
