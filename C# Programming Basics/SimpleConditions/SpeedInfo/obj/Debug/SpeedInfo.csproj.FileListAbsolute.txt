@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\SpeedInfo\bin\Debug\SpeedInfo.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\SpeedInfo\bin\Debug\SpeedInfo.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\SpeedInfo\obj\Debug\SpeedInfo.pdb

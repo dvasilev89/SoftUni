@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualNumbers\bin\Debug\EqualNumbers.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualNumbers\bin\Debug\EqualNumbers.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualNumbers\bin\Debug\EqualNumbers.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualNumbers\obj\Debug\EqualNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualNumbers\obj\Debug\EqualNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualNumbers\obj\Debug\EqualNumbers.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualNumbers\obj\Debug\EqualNumbers.pdb

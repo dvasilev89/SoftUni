@@ -1,0 +1,7 @@
+C:\Users\DV\source\repos\SimpleConditions\ExcelRes\bin\Debug\ExcelRes.exe.config
+C:\Users\DV\source\repos\SimpleConditions\ExcelRes\bin\Debug\ExcelRes.exe
+C:\Users\DV\source\repos\SimpleConditions\ExcelRes\bin\Debug\ExcelRes.pdb
+C:\Users\DV\source\repos\SimpleConditions\ExcelRes\obj\Debug\ExcelRes.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\SimpleConditions\ExcelRes\obj\Debug\ExcelRes.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\SimpleConditions\ExcelRes\obj\Debug\ExcelRes.exe
+C:\Users\DV\source\repos\SimpleConditions\ExcelRes\obj\Debug\ExcelRes.pdb

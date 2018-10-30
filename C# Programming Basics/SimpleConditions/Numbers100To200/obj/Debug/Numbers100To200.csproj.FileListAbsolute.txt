@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Numbers100To200\bin\Debug\Numbers100To200.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Numbers100To200\bin\Debug\Numbers100To200.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Numbers100To200\bin\Debug\Numbers100To200.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Numbers100To200\obj\Debug\Numbers100To200.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Numbers100To200\obj\Debug\Numbers100To200.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Numbers100To200\obj\Debug\Numbers100To200.pdb

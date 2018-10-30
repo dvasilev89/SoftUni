@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Time15Min\bin\Debug\Time15Min.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Time15Min\bin\Debug\Time15Min.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Time15Min\bin\Debug\Time15Min.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Time15Min\obj\Debug\Time15Min.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Time15Min\obj\Debug\Time15Min.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Time15Min\obj\Debug\Time15Min.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\Time15Min\obj\Debug\Time15Min.pdb

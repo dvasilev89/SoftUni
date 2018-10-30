@@ -1,0 +1,6 @@
+C:\Users\DV\source\repos\SimpleConditions\ExcelOrNot\bin\Debug\ExcelOrNot.exe.config
+C:\Users\DV\source\repos\SimpleConditions\ExcelOrNot\bin\Debug\ExcelOrNot.exe
+C:\Users\DV\source\repos\SimpleConditions\ExcelOrNot\bin\Debug\ExcelOrNot.pdb
+C:\Users\DV\source\repos\SimpleConditions\ExcelOrNot\obj\Debug\ExcelOrNot.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\SimpleConditions\ExcelOrNot\obj\Debug\ExcelOrNot.exe
+C:\Users\DV\source\repos\SimpleConditions\ExcelOrNot\obj\Debug\ExcelOrNot.pdb

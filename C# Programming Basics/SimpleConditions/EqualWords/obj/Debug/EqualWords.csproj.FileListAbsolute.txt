@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualWords\bin\Debug\EqualWords.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualWords\bin\Debug\EqualWords.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualWords\bin\Debug\EqualWords.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualWords\obj\Debug\EqualWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualWords\obj\Debug\EqualWords.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\EqualWords\obj\Debug\EqualWords.pdb

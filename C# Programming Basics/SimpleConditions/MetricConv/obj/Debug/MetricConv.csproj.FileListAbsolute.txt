@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\MetricConv\bin\Debug\MetricConv.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\MetricConv\bin\Debug\MetricConv.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\MetricConv\bin\Debug\MetricConv.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\MetricConv\obj\Debug\MetricConv.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\MetricConv\obj\Debug\MetricConv.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\MetricConv\obj\Debug\MetricConv.exe
+D:\SoftUni\Visual Studio\Projects\SimpleConditions\MetricConv\obj\Debug\MetricConv.pdb

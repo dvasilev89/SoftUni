@@ -1,0 +1,6 @@
+C:\Users\DV\source\repos\SimpleConditions\GreaterNum\bin\Debug\GreaterNum.exe.config
+C:\Users\DV\source\repos\SimpleConditions\GreaterNum\bin\Debug\GreaterNum.exe
+C:\Users\DV\source\repos\SimpleConditions\GreaterNum\bin\Debug\GreaterNum.pdb
+C:\Users\DV\source\repos\SimpleConditions\GreaterNum\obj\Debug\GreaterNum.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\SimpleConditions\GreaterNum\obj\Debug\GreaterNum.exe
+C:\Users\DV\source\repos\SimpleConditions\GreaterNum\obj\Debug\GreaterNum.pdb
