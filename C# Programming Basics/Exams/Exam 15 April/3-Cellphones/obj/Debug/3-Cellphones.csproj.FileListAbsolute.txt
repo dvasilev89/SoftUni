@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-Cellphones\bin\Debug\3-Cellphones.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-Cellphones\bin\Debug\3-Cellphones.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-Cellphones\bin\Debug\3-Cellphones.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-Cellphones\obj\Debug\3-Cellphones.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-Cellphones\obj\Debug\3-Cellphones.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-Cellphones\obj\Debug\3-Cellphones.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-Cellphones\obj\Debug\3-Cellphones.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\SleepyTom\bin\Debug\SleepyTom.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\SleepyTom\bin\Debug\SleepyTom.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\SleepyTom\bin\Debug\SleepyTom.pdb
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\SleepyTom\obj\Debug\SleepyTom.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\SleepyTom\obj\Debug\SleepyTom.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\SleepyTom\obj\Debug\SleepyTom.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\SleepyTom\obj\Debug\SleepyTom.pdb

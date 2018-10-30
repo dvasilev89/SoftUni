@@ -1,0 +1,7 @@
+C:\Users\DV\source\repos\ExamPB2017\CharityProg\bin\Debug\CharityProg.exe.config
+C:\Users\DV\source\repos\ExamPB2017\CharityProg\bin\Debug\CharityProg.exe
+C:\Users\DV\source\repos\ExamPB2017\CharityProg\bin\Debug\CharityProg.pdb
+C:\Users\DV\source\repos\ExamPB2017\CharityProg\obj\Debug\CharityProg.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\ExamPB2017\CharityProg\obj\Debug\CharityProg.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\ExamPB2017\CharityProg\obj\Debug\CharityProg.exe
+C:\Users\DV\source\repos\ExamPB2017\CharityProg\obj\Debug\CharityProg.pdb

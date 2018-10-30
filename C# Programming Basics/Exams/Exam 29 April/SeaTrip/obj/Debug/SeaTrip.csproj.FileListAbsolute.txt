@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\SeaTrip\bin\Debug\SeaTrip.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\SeaTrip\bin\Debug\SeaTrip.exe
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\SeaTrip\bin\Debug\SeaTrip.pdb
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\SeaTrip\obj\Debug\SeaTrip.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\SeaTrip\obj\Debug\SeaTrip.exe
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\SeaTrip\obj\Debug\SeaTrip.pdb

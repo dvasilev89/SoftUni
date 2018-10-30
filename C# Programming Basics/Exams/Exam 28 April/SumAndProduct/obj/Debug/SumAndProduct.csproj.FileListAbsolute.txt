@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam28_04\SumAndProduct\bin\Debug\SumAndProduct.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam28_04\SumAndProduct\bin\Debug\SumAndProduct.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\SumAndProduct\bin\Debug\SumAndProduct.pdb
+D:\SoftUni\Visual Studio\Projects\Exam28_04\SumAndProduct\obj\Debug\SumAndProduct.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam28_04\SumAndProduct\obj\Debug\SumAndProduct.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam28_04\SumAndProduct\obj\Debug\SumAndProduct.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\SumAndProduct\obj\Debug\SumAndProduct.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-AluminiumJoinery\bin\Debug\3-AluminiumJoinery.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-AluminiumJoinery\bin\Debug\3-AluminiumJoinery.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-AluminiumJoinery\bin\Debug\3-AluminiumJoinery.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-AluminiumJoinery\obj\Debug\3-AluminiumJoinery.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-AluminiumJoinery\obj\Debug\3-AluminiumJoinery.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-AluminiumJoinery\obj\Debug\3-AluminiumJoinery.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\3-AluminiumJoinery\obj\Debug\3-AluminiumJoinery.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-Spaceship\bin\Debug\2-Spaceship.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-Spaceship\bin\Debug\2-Spaceship.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-Spaceship\bin\Debug\2-Spaceship.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-Spaceship\obj\Debug\2-Spaceship.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-Spaceship\obj\Debug\2-Spaceship.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-Spaceship\obj\Debug\2-Spaceship.pdb

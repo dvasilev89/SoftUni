@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-SolarSystem\bin\Debug\2-SolarSystem.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-SolarSystem\bin\Debug\2-SolarSystem.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-SolarSystem\bin\Debug\2-SolarSystem.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-SolarSystem\obj\Debug\3-SolarSystem.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-SolarSystem\obj\Debug\3-SolarSystem.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-SolarSystem\obj\Debug\2-SolarSystem.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\2-SolarSystem\obj\Debug\2-SolarSystem.pdb

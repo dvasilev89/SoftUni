@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\bin\Debug\netcoreapp2.0\GreatestCommonDivisor.deps.json
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\bin\Debug\netcoreapp2.0\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\bin\Debug\netcoreapp2.0\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\bin\Debug\netcoreapp2.0\GreatestCommonDivisor.dll
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\bin\Debug\netcoreapp2.0\GreatestCommonDivisor.pdb
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\obj\Debug\netcoreapp2.0\GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\obj\Debug\netcoreapp2.0\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\obj\Debug\netcoreapp2.0\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\obj\Debug\netcoreapp2.0\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\obj\Debug\netcoreapp2.0\GreatestCommonDivisor.dll
+C:\Users\DV\source\repos\Advanced Loops\GreatestCommonDivisor\obj\Debug\netcoreapp2.0\GreatestCommonDivisor.pdb

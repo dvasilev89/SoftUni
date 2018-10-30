@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TrainingLab\bin\Debug\TrainingLab.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TrainingLab\bin\Debug\TrainingLab.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TrainingLab\bin\Debug\TrainingLab.pdb
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TrainingLab\obj\Debug\TrainingLab.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TrainingLab\obj\Debug\TrainingLab.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TrainingLab\obj\Debug\TrainingLab.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TrainingLab\obj\Debug\TrainingLab.pdb

@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Advanced Loops\From1toN\bin\Debug\netcoreapp2.0\From1toN.deps.json
+C:\Users\DV\source\repos\Advanced Loops\From1toN\bin\Debug\netcoreapp2.0\From1toN.runtimeconfig.json
+C:\Users\DV\source\repos\Advanced Loops\From1toN\bin\Debug\netcoreapp2.0\From1toN.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Advanced Loops\From1toN\bin\Debug\netcoreapp2.0\From1toN.dll
+C:\Users\DV\source\repos\Advanced Loops\From1toN\bin\Debug\netcoreapp2.0\From1toN.pdb
+C:\Users\DV\source\repos\Advanced Loops\From1toN\obj\Debug\netcoreapp2.0\From1toN.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Advanced Loops\From1toN\obj\Debug\netcoreapp2.0\From1toN.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\From1toN\obj\Debug\netcoreapp2.0\From1toN.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\From1toN\obj\Debug\netcoreapp2.0\From1toN.AssemblyInfo.cs
+C:\Users\DV\source\repos\Advanced Loops\From1toN\obj\Debug\netcoreapp2.0\From1toN.dll
+C:\Users\DV\source\repos\Advanced Loops\From1toN\obj\Debug\netcoreapp2.0\From1toN.pdb

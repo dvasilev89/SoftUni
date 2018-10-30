@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\VegetaExchange\bin\Debug\VegetaExchange.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\VegetaExchange\bin\Debug\VegetaExchange.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\VegetaExchange\bin\Debug\VegetaExchange.pdb
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\VegetaExchange\obj\Debug\VegetaExchange.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\VegetaExchange\obj\Debug\VegetaExchange.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\VegetaExchange\obj\Debug\VegetaExchange.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\VegetaExchange\obj\Debug\VegetaExchange.pdb

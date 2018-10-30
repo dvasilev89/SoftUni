@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\bin\Debug\netcoreapp2.0\NumbersToN.deps.json
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\bin\Debug\netcoreapp2.0\NumbersToN.runtimeconfig.json
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\bin\Debug\netcoreapp2.0\NumbersToN.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\bin\Debug\netcoreapp2.0\NumbersToN.dll
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\bin\Debug\netcoreapp2.0\NumbersToN.pdb
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\obj\Debug\netcoreapp2.0\NumbersToN.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\obj\Debug\netcoreapp2.0\NumbersToN.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\obj\Debug\netcoreapp2.0\NumbersToN.AssemblyInfo.cs
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\obj\Debug\netcoreapp2.0\NumbersToN.dll
+C:\Users\DV\source\repos\Advanced Loops\NumbersToN\obj\Debug\netcoreapp2.0\NumbersToN.pdb

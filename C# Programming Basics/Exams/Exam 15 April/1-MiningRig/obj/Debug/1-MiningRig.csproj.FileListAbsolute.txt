@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-MiningRig\bin\Debug\1-MiningRig.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-MiningRig\bin\Debug\1-MiningRig.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-MiningRig\bin\Debug\1-MiningRig.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-MiningRig\obj\Debug\1-MiningRig.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-MiningRig\obj\Debug\1-MiningRig.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-MiningRig\obj\Debug\1-MiningRig.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-MiningRig\obj\Debug\1-MiningRig.pdb

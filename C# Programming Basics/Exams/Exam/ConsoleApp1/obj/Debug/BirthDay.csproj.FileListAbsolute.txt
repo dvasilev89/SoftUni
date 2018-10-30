@@ -1,0 +1,7 @@
+C:\Users\DV\source\repos\ExamPB2017\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\DV\source\repos\ExamPB2017\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\DV\source\repos\ExamPB2017\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\DV\source\repos\ExamPB2017\ConsoleApp1\obj\Debug\BirthDay.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\ExamPB2017\ConsoleApp1\obj\Debug\BirthDay.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\ExamPB2017\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\DV\source\repos\ExamPB2017\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

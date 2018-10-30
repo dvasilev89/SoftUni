@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Travel\bin\Debug\Travel.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Travel\bin\Debug\Travel.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Travel\bin\Debug\Travel.pdb
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Travel\obj\Debug\Travel.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Travel\obj\Debug\Travel.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Travel\obj\Debug\Travel.pdb

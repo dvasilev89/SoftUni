@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\EifelTower\bin\Debug\EifelTower.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\EifelTower\bin\Debug\EifelTower.exe
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\EifelTower\bin\Debug\EifelTower.pdb
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\EifelTower\obj\Debug\EifelTower.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\EifelTower\obj\Debug\EifelTower.exe
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\EifelTower\obj\Debug\EifelTower.pdb

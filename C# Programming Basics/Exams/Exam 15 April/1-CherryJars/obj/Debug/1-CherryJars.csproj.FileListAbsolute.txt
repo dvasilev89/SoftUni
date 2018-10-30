@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-CherryJars\bin\Debug\1-CherryJars.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-CherryJars\bin\Debug\1-CherryJars.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-CherryJars\bin\Debug\1-CherryJars.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-CherryJars\obj\Debug\1-CherryJars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-CherryJars\obj\Debug\1-CherryJars.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\1-CherryJars\obj\Debug\1-CherryJars.pdb

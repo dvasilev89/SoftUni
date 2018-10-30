@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\Moon\bin\Debug\Moon.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\Moon\bin\Debug\Moon.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\Moon\bin\Debug\Moon.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\Moon\obj\Debug\Moon.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\Moon\obj\Debug\Moon.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\Moon\obj\Debug\Moon.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\Moon\obj\Debug\Moon.pdb

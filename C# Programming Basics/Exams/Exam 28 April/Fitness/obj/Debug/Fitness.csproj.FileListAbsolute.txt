@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Fitness\bin\Debug\Fitness.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Fitness\bin\Debug\Fitness.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Fitness\bin\Debug\Fitness.pdb
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Fitness\obj\Debug\Fitness.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Fitness\obj\Debug\Fitness.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Fitness\obj\Debug\Fitness.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Fitness\obj\Debug\Fitness.pdb

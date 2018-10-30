@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TransportPrice\bin\Debug\TransportPrice.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TransportPrice\bin\Debug\TransportPrice.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TransportPrice\bin\Debug\TransportPrice.pdb
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TransportPrice\obj\Debug\TransportPrice.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TransportPrice\obj\Debug\TransportPrice.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TransportPrice\obj\Debug\TransportPrice.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\TransportPrice\obj\Debug\TransportPrice.pdb

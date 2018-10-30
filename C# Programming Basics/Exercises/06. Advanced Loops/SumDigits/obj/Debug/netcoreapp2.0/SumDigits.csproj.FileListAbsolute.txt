@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.deps.json
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.runtimeconfig.json
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.dll
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\bin\Debug\netcoreapp2.0\SumDigits.pdb
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.AssemblyInfo.cs
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.dll
+C:\Users\DV\source\repos\Advanced Loops\SumDigits\obj\Debug\netcoreapp2.0\SumDigits.pdb

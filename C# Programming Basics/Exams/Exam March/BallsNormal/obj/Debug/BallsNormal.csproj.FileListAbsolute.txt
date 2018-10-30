@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\BallsNormal\bin\Debug\BallsNormal.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\BallsNormal\bin\Debug\BallsNormal.exe
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\BallsNormal\bin\Debug\BallsNormal.pdb
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\BallsNormal\obj\Debug\BallsNormal.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\BallsNormal\obj\Debug\BallsNormal.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\BallsNormal\obj\Debug\BallsNormal.exe
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\BallsNormal\obj\Debug\BallsNormal.pdb

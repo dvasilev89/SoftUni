@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\bin\Debug\netcoreapp2.0\FromNTo1.deps.json
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\bin\Debug\netcoreapp2.0\FromNTo1.runtimeconfig.json
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\bin\Debug\netcoreapp2.0\FromNTo1.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\bin\Debug\netcoreapp2.0\FromNTo1.dll
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\bin\Debug\netcoreapp2.0\FromNTo1.pdb
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\obj\Debug\netcoreapp2.0\FromNTo1.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\obj\Debug\netcoreapp2.0\FromNTo1.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\obj\Debug\netcoreapp2.0\FromNTo1.AssemblyInfo.cs
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\obj\Debug\netcoreapp2.0\FromNTo1.dll
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\obj\Debug\netcoreapp2.0\FromNTo1.pdb
+C:\Users\DV\source\repos\Advanced Loops\FromNTo1\obj\Debug\netcoreapp2.0\FromNTo1.csprojResolveAssemblyReference.cache

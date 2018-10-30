@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\bin\Debug\netcoreapp2.0\CheckPrime.deps.json
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\bin\Debug\netcoreapp2.0\CheckPrime.runtimeconfig.json
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\bin\Debug\netcoreapp2.0\CheckPrime.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\bin\Debug\netcoreapp2.0\CheckPrime.dll
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\bin\Debug\netcoreapp2.0\CheckPrime.pdb
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\obj\Debug\netcoreapp2.0\CheckPrime.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\obj\Debug\netcoreapp2.0\CheckPrime.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\obj\Debug\netcoreapp2.0\CheckPrime.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\obj\Debug\netcoreapp2.0\CheckPrime.AssemblyInfo.cs
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\obj\Debug\netcoreapp2.0\CheckPrime.dll
+C:\Users\DV\source\repos\Advanced Loops\CheckPrime\obj\Debug\netcoreapp2.0\CheckPrime.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\ANDProcessor\bin\Debug\ANDProcessor.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\ANDProcessor\bin\Debug\ANDProcessor.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\ANDProcessor\bin\Debug\ANDProcessor.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\ANDProcessor\obj\Debug\ANDProcessor.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\ANDProcessor\obj\Debug\ANDProcessor.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\ANDProcessor\obj\Debug\ANDProcessor.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\ANDProcessor\obj\Debug\ANDProcessor.pdb

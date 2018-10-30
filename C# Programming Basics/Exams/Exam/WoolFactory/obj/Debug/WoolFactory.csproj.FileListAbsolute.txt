@@ -1,0 +1,7 @@
+C:\Users\DV\source\repos\ExamPB2017\WoolFactory\bin\Debug\WoolFactory.exe.config
+C:\Users\DV\source\repos\ExamPB2017\WoolFactory\bin\Debug\WoolFactory.exe
+C:\Users\DV\source\repos\ExamPB2017\WoolFactory\bin\Debug\WoolFactory.pdb
+C:\Users\DV\source\repos\ExamPB2017\WoolFactory\obj\Debug\WoolFactory.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\ExamPB2017\WoolFactory\obj\Debug\WoolFactory.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\ExamPB2017\WoolFactory\obj\Debug\WoolFactory.exe
+C:\Users\DV\source\repos\ExamPB2017\WoolFactory\obj\Debug\WoolFactory.pdb

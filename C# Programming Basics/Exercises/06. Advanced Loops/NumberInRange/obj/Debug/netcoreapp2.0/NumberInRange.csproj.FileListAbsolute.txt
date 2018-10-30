@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\bin\Debug\netcoreapp2.0\NumberInRange.deps.json
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\bin\Debug\netcoreapp2.0\NumberInRange.runtimeconfig.json
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\bin\Debug\netcoreapp2.0\NumberInRange.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\bin\Debug\netcoreapp2.0\NumberInRange.dll
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\bin\Debug\netcoreapp2.0\NumberInRange.pdb
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\obj\Debug\netcoreapp2.0\NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\obj\Debug\netcoreapp2.0\NumberInRange.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\obj\Debug\netcoreapp2.0\NumberInRange.AssemblyInfo.cs
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\obj\Debug\netcoreapp2.0\NumberInRange.dll
+C:\Users\DV\source\repos\Advanced Loops\NumberInRange\obj\Debug\netcoreapp2.0\NumberInRange.pdb

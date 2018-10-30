@@ -1,0 +1,7 @@
+C:\Users\DV\source\repos\ExamPB2017\AlcMarket\bin\Debug\AlcMarket.exe.config
+C:\Users\DV\source\repos\ExamPB2017\AlcMarket\bin\Debug\AlcMarket.exe
+C:\Users\DV\source\repos\ExamPB2017\AlcMarket\bin\Debug\AlcMarket.pdb
+C:\Users\DV\source\repos\ExamPB2017\AlcMarket\obj\Debug\AlcMarket.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\ExamPB2017\AlcMarket\obj\Debug\AlcMarket.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\ExamPB2017\AlcMarket\obj\Debug\AlcMarket.exe
+C:\Users\DV\source\repos\ExamPB2017\AlcMarket\obj\Debug\AlcMarket.pdb

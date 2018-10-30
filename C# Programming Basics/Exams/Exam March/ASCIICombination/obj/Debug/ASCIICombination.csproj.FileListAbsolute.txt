@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\ASCIICombination\bin\Debug\ASCIICombination.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\ASCIICombination\bin\Debug\ASCIICombination.exe
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\ASCIICombination\bin\Debug\ASCIICombination.pdb
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\ASCIICombination\obj\Debug\ASCIICombination.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\ASCIICombination\obj\Debug\ASCIICombination.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\ASCIICombination\obj\Debug\ASCIICombination.exe
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\ASCIICombination\obj\Debug\ASCIICombination.pdb

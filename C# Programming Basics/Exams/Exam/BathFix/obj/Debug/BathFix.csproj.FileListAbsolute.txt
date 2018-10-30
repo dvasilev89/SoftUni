@@ -1,0 +1,7 @@
+C:\Users\DV\source\repos\ExamPB2017\BathFix\bin\Debug\BathFix.exe.config
+C:\Users\DV\source\repos\ExamPB2017\BathFix\bin\Debug\BathFix.exe
+C:\Users\DV\source\repos\ExamPB2017\BathFix\bin\Debug\BathFix.pdb
+C:\Users\DV\source\repos\ExamPB2017\BathFix\obj\Debug\BathFix.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\ExamPB2017\BathFix\obj\Debug\BathFix.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\ExamPB2017\BathFix\obj\Debug\BathFix.exe
+C:\Users\DV\source\repos\ExamPB2017\BathFix\obj\Debug\BathFix.pdb

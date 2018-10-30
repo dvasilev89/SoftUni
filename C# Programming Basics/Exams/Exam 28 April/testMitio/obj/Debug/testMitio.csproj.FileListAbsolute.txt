@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\Exam28_04\testMitio\bin\Debug\testMitio.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam28_04\testMitio\bin\Debug\testMitio.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\testMitio\bin\Debug\testMitio.pdb
+D:\SoftUni\Visual Studio\Projects\Exam28_04\testMitio\obj\Debug\testMitio.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam28_04\testMitio\obj\Debug\testMitio.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\testMitio\obj\Debug\testMitio.pdb

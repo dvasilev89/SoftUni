@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\bin\Debug\netcoreapp2.0\NumberPyramid.deps.json
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\bin\Debug\netcoreapp2.0\NumberPyramid.runtimeconfig.json
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\bin\Debug\netcoreapp2.0\NumberPyramid.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\bin\Debug\netcoreapp2.0\NumberPyramid.dll
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\bin\Debug\netcoreapp2.0\NumberPyramid.pdb
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\obj\Debug\netcoreapp2.0\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\obj\Debug\netcoreapp2.0\NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\obj\Debug\netcoreapp2.0\NumberPyramid.AssemblyInfo.cs
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\obj\Debug\netcoreapp2.0\NumberPyramid.dll
+C:\Users\DV\source\repos\Advanced Loops\NumberPyramid\obj\Debug\netcoreapp2.0\NumberPyramid.pdb

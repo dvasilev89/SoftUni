@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\0-TestCode\bin\Debug\0-TestCode.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\0-TestCode\bin\Debug\0-TestCode.exe
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\0-TestCode\bin\Debug\0-TestCode.pdb
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\0-TestCode\obj\Debug\0-TestCode.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\0-TestCode\obj\Debug\0-TestCode.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\0-TestCode\obj\Debug\0-TestCode.exe
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\0-TestCode\obj\Debug\0-TestCode.pdb

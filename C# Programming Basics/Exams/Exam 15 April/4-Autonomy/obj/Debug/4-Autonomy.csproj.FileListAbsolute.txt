@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Autonomy\bin\Debug\4-Autonomy.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Autonomy\bin\Debug\4-Autonomy.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Autonomy\bin\Debug\4-Autonomy.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Autonomy\obj\Debug\4-Autonomy.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Autonomy\obj\Debug\4-Autonomy.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Autonomy\obj\Debug\4-Autonomy.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Autonomy\obj\Debug\4-Autonomy.pdb

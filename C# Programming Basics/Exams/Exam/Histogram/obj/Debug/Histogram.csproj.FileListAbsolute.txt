@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Histogram\bin\Debug\Histogram.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Histogram\bin\Debug\Histogram.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Histogram\bin\Debug\Histogram.pdb
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Histogram\obj\Debug\Histogram.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Histogram\obj\Debug\Histogram.pdb

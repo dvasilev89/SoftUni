@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Bus\bin\Debug\4-Bus.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Bus\bin\Debug\4-Bus.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Bus\bin\Debug\4-Bus.pdb
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Bus\obj\Debug\4-Bus.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Bus\obj\Debug\4-Bus.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Bus\obj\Debug\4-Bus.exe
+D:\SoftUni\Visual Studio\Projects\Exam15April\4-Bus\obj\Debug\4-Bus.pdb

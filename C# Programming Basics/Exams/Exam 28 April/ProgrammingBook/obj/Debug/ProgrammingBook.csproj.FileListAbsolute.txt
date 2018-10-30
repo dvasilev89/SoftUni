@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam28_04\ProgrammingBook\bin\Debug\ProgrammingBook.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam28_04\ProgrammingBook\bin\Debug\ProgrammingBook.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\ProgrammingBook\bin\Debug\ProgrammingBook.pdb
+D:\SoftUni\Visual Studio\Projects\Exam28_04\ProgrammingBook\obj\Debug\ProgrammingBook.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam28_04\ProgrammingBook\obj\Debug\ProgrammingBook.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam28_04\ProgrammingBook\obj\Debug\ProgrammingBook.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\ProgrammingBook\obj\Debug\ProgrammingBook.pdb

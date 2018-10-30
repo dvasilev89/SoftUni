@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Logo\bin\Debug\Logo.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Logo\bin\Debug\Logo.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Logo\bin\Debug\Logo.pdb
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Logo\obj\Debug\Logo.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Logo\obj\Debug\Logo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Logo\obj\Debug\Logo.exe
+D:\SoftUni\Visual Studio\Projects\Exam28_04\Logo\obj\Debug\Logo.pdb

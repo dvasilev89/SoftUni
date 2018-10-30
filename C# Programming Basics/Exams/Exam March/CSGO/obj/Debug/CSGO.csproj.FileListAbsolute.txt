@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\CSGO\bin\Debug\CSGO.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\CSGO\bin\Debug\CSGO.exe
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\CSGO\bin\Debug\CSGO.pdb
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\CSGO\obj\Debug\CSGO.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\CSGO\obj\Debug\CSGO.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\CSGO\obj\Debug\CSGO.exe
+D:\SoftUni\Visual Studio\Projects\ExamMarch10-11\CSGO\obj\Debug\CSGO.pdb

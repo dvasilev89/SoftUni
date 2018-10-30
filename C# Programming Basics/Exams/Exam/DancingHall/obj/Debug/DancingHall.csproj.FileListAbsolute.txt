@@ -1,0 +1,7 @@
+C:\Users\DV\source\repos\ExamPB2017\DancingHall\bin\Debug\DancingHall.exe.config
+C:\Users\DV\source\repos\ExamPB2017\DancingHall\bin\Debug\DancingHall.exe
+C:\Users\DV\source\repos\ExamPB2017\DancingHall\bin\Debug\DancingHall.pdb
+C:\Users\DV\source\repos\ExamPB2017\DancingHall\obj\Debug\DancingHall.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\ExamPB2017\DancingHall\obj\Debug\DancingHall.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\ExamPB2017\DancingHall\obj\Debug\DancingHall.exe
+C:\Users\DV\source\repos\ExamPB2017\DancingHall\obj\Debug\DancingHall.pdb

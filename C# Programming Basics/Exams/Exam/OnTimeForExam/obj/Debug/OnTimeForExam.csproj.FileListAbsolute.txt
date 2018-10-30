@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\OnTimeForExam\bin\Debug\OnTimeForExam.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\OnTimeForExam\bin\Debug\OnTimeForExam.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\OnTimeForExam\bin\Debug\OnTimeForExam.pdb
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\OnTimeForExam\obj\Debug\OnTimeForExam.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\OnTimeForExam\obj\Debug\OnTimeForExam.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\OnTimeForExam\obj\Debug\OnTimeForExam.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\OnTimeForExam\obj\Debug\OnTimeForExam.pdb

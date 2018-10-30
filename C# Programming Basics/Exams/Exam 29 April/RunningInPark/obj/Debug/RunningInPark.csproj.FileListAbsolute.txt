@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\RunningInPark\bin\Debug\RunningInPark.exe.config
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\RunningInPark\bin\Debug\RunningInPark.exe
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\RunningInPark\bin\Debug\RunningInPark.pdb
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\RunningInPark\obj\Debug\RunningInPark.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\RunningInPark\obj\Debug\RunningInPark.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\RunningInPark\obj\Debug\RunningInPark.exe
+D:\SoftUni\Visual Studio\Projects\Exam29ThApril\RunningInPark\obj\Debug\RunningInPark.pdb

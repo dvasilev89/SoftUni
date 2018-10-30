@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Harvest\bin\Debug\Harvest.exe.config
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Harvest\bin\Debug\Harvest.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Harvest\bin\Debug\Harvest.pdb
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Harvest\obj\Debug\Harvest.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Harvest\obj\Debug\Harvest.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Harvest\obj\Debug\Harvest.exe
+D:\SoftUni\Visual Studio\Projects\ExamProgBasic\Harvest\obj\Debug\Harvest.pdb
