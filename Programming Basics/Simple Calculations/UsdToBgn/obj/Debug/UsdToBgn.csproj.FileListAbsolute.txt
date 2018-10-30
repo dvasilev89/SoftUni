@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\UsdToBgn\bin\Debug\UsdToBgn.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\UsdToBgn\bin\Debug\UsdToBgn.exe
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\UsdToBgn\bin\Debug\UsdToBgn.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\UsdToBgn\obj\Debug\UsdToBgn.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\UsdToBgn\obj\Debug\UsdToBgn.exe
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\UsdToBgn\obj\Debug\UsdToBgn.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\RectaArea\bin\Debug\RectaArea.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\RectaArea\bin\Debug\RectaArea.exe
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\RectaArea\bin\Debug\RectaArea.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\RectaArea\obj\Debug\RectaArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\RectaArea\obj\Debug\RectaArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\RectaArea\obj\Debug\RectaArea.exe
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\RectaArea\obj\Debug\RectaArea.pdb

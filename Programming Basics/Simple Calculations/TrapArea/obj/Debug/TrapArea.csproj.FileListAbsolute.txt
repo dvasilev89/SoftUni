@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\TrapArea\bin\Debug\TrapArea.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\TrapArea\bin\Debug\TrapArea.exe
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\TrapArea\bin\Debug\TrapArea.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\TrapArea\obj\Debug\TrapArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\TrapArea\obj\Debug\TrapArea.exe
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\TrapArea\obj\Debug\TrapArea.pdb
