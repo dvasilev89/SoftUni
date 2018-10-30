@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\bin\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.deps.json
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\bin\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.runtimeconfig.json
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\bin\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.runtimeconfig.dev.json
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\bin\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.dll
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\bin\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.pdb
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\obj\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\obj\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\obj\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\obj\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.AssemblyInfo.cs
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\obj\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.dll
+C:\Users\DV\source\repos\RegEx Lab\Exam 2 – Grains of Sand\obj\Debug\netcoreapp2.0\Exam 2 – Grains of Sand.pdb

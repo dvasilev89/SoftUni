@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.deps.json
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.dll
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\bin\Debug\netcoreapp2.0\OddOccurrences.pdb
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.dll
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.pdb
+C:\Users\DV\source\repos\Dictionaries Lab\OddOccurrences\obj\Debug\netcoreapp2.0\OddOccurrences.csprojResolveAssemblyReference.cache

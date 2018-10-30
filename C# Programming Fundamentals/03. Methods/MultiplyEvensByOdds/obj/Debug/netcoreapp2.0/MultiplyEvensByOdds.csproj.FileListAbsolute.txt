@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.deps.json
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.dll
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\MultiplyEvensByOdds.pdb
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.dll
+C:\Users\DV\source\repos\Methods\MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\MultiplyEvensByOdds.pdb

@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\bin\Debug\netcoreapp2.0\3-Hotel.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\bin\Debug\netcoreapp2.0\3-Hotel.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\bin\Debug\netcoreapp2.0\3-Hotel.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\bin\Debug\netcoreapp2.0\3-Hotel.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\bin\Debug\netcoreapp2.0\3-Hotel.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\obj\Debug\netcoreapp2.0\3-Hotel.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\obj\Debug\netcoreapp2.0\3-Hotel.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\obj\Debug\netcoreapp2.0\3-Hotel.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\obj\Debug\netcoreapp2.0\3-Hotel.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\obj\Debug\netcoreapp2.0\3-Hotel.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-Hotel\obj\Debug\netcoreapp2.0\3-Hotel.pdb

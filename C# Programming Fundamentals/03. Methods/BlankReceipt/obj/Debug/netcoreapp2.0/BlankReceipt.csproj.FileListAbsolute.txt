@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Methods\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.deps.json
+C:\Users\DV\source\repos\Methods\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.runtimeconfig.json
+C:\Users\DV\source\repos\Methods\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Methods\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.dll
+C:\Users\DV\source\repos\Methods\BlankReceipt\bin\Debug\netcoreapp2.0\BlankReceipt.pdb
+C:\Users\DV\source\repos\Methods\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Methods\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Methods\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Methods\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.AssemblyInfo.cs
+C:\Users\DV\source\repos\Methods\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.dll
+C:\Users\DV\source\repos\Methods\BlankReceipt\obj\Debug\netcoreapp2.0\BlankReceipt.pdb

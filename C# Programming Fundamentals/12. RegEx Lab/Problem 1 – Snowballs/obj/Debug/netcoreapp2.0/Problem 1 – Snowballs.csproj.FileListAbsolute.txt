@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\bin\Debug\netcoreapp2.0\Problem 1 – Snowballs.deps.json
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\bin\Debug\netcoreapp2.0\Problem 1 – Snowballs.runtimeconfig.json
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\bin\Debug\netcoreapp2.0\Problem 1 – Snowballs.runtimeconfig.dev.json
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\bin\Debug\netcoreapp2.0\Problem 1 – Snowballs.dll
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\bin\Debug\netcoreapp2.0\Problem 1 – Snowballs.pdb
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\obj\Debug\netcoreapp2.0\Problem 1 – Snowballs.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\obj\Debug\netcoreapp2.0\Problem 1 – Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\obj\Debug\netcoreapp2.0\Problem 1 – Snowballs.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\obj\Debug\netcoreapp2.0\Problem 1 – Snowballs.AssemblyInfo.cs
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\obj\Debug\netcoreapp2.0\Problem 1 – Snowballs.dll
+C:\Users\DV\source\repos\RegEx Lab\Problem 1 – Snowballs\obj\Debug\netcoreapp2.0\Problem 1 – Snowballs.pdb

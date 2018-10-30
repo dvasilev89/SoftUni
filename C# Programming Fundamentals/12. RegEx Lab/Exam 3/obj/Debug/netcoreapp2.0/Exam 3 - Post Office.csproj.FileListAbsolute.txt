@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\bin\Debug\netcoreapp2.0\Exam 3 - Post Office.deps.json
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\bin\Debug\netcoreapp2.0\Exam 3 - Post Office.runtimeconfig.json
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\bin\Debug\netcoreapp2.0\Exam 3 - Post Office.runtimeconfig.dev.json
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\bin\Debug\netcoreapp2.0\Exam 3 - Post Office.dll
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\bin\Debug\netcoreapp2.0\Exam 3 - Post Office.pdb
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\obj\Debug\netcoreapp2.0\Exam 3 - Post Office.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\obj\Debug\netcoreapp2.0\Exam 3 - Post Office.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\obj\Debug\netcoreapp2.0\Exam 3 - Post Office.AssemblyInfo.cs
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\obj\Debug\netcoreapp2.0\Exam 3 - Post Office.dll
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\obj\Debug\netcoreapp2.0\Exam 3 - Post Office.pdb
+C:\Users\DV\source\repos\RegEx Lab\Exam 3\obj\Debug\netcoreapp2.0\Exam 3 - Post Office.csprojAssemblyReference.cache

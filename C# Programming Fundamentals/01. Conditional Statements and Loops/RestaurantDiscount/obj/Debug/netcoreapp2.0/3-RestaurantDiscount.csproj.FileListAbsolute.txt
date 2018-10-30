@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\bin\Debug\netcoreapp2.0\3-RestaurantDiscount.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\bin\Debug\netcoreapp2.0\3-RestaurantDiscount.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\bin\Debug\netcoreapp2.0\3-RestaurantDiscount.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\bin\Debug\netcoreapp2.0\3-RestaurantDiscount.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\bin\Debug\netcoreapp2.0\3-RestaurantDiscount.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\obj\Debug\netcoreapp2.0\3-RestaurantDiscount.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\obj\Debug\netcoreapp2.0\3-RestaurantDiscount.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\obj\Debug\netcoreapp2.0\3-RestaurantDiscount.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\obj\Debug\netcoreapp2.0\3-RestaurantDiscount.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\obj\Debug\netcoreapp2.0\3-RestaurantDiscount.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-RestaurantDiscount\obj\Debug\netcoreapp2.0\3-RestaurantDiscount.pdb

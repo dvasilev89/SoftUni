@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.deps.json
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.dll
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\bin\Debug\netcoreapp2.0\LogsAggregator.pdb
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.dll
+C:\Users\DV\source\repos\Dictionaries Exercises\LogsAggregator\obj\Debug\netcoreapp2.0\LogsAggregator.pdb

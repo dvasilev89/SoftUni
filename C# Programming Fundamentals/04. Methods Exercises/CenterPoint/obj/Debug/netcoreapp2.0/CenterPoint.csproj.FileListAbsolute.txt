@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.deps.json
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.runtimeconfig.json
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.dll
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\bin\Debug\netcoreapp2.0\CenterPoint.pdb
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.AssemblyInfo.cs
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.dll
+C:\Users\DV\source\repos\Methods Exercises\CenterPoint\obj\Debug\netcoreapp2.0\CenterPoint.pdb

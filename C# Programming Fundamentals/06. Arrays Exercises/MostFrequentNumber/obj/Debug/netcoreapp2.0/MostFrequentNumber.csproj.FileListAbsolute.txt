@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\bin\Debug\netcoreapp2.0\MostFrequentNumber.deps.json
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\bin\Debug\netcoreapp2.0\MostFrequentNumber.runtimeconfig.json
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\bin\Debug\netcoreapp2.0\MostFrequentNumber.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\bin\Debug\netcoreapp2.0\MostFrequentNumber.dll
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\bin\Debug\netcoreapp2.0\MostFrequentNumber.pdb
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\obj\Debug\netcoreapp2.0\MostFrequentNumber.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\obj\Debug\netcoreapp2.0\MostFrequentNumber.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\obj\Debug\netcoreapp2.0\MostFrequentNumber.AssemblyInfo.cs
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\obj\Debug\netcoreapp2.0\MostFrequentNumber.dll
+C:\Users\DV\source\repos\Arrays Exercises\MostFrequentNumber\obj\Debug\netcoreapp2.0\MostFrequentNumber.pdb

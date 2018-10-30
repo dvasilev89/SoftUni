@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\bin\Debug\netcoreapp2.0\3-CakeIngredients.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\bin\Debug\netcoreapp2.0\3-CakeIngredients.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\bin\Debug\netcoreapp2.0\3-CakeIngredients.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\bin\Debug\netcoreapp2.0\3-CakeIngredients.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\bin\Debug\netcoreapp2.0\3-CakeIngredients.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\obj\Debug\netcoreapp2.0\3-CakeIngredients.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\obj\Debug\netcoreapp2.0\3-CakeIngredients.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\obj\Debug\netcoreapp2.0\3-CakeIngredients.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\obj\Debug\netcoreapp2.0\3-CakeIngredients.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-CakeIngredients\obj\Debug\netcoreapp2.0\3-CakeIngredients.pdb

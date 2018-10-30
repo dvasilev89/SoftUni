@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.deps.json
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.runtimeconfig.json
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.dll
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\bin\Debug\netcoreapp2.0\CalculateTriangleArea.pdb
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.AssemblyInfo.cs
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.dll
+C:\Users\DV\source\repos\Methods\CalculateTriangleArea\obj\Debug\netcoreapp2.0\CalculateTriangleArea.pdb

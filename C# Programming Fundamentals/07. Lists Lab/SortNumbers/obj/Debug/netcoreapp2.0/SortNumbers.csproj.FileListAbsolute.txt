@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\bin\Debug\netcoreapp2.0\SortNumbers.deps.json
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\bin\Debug\netcoreapp2.0\SortNumbers.runtimeconfig.json
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\bin\Debug\netcoreapp2.0\SortNumbers.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\bin\Debug\netcoreapp2.0\SortNumbers.dll
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\bin\Debug\netcoreapp2.0\SortNumbers.pdb
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\obj\Debug\netcoreapp2.0\SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\obj\Debug\netcoreapp2.0\SortNumbers.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\obj\Debug\netcoreapp2.0\SortNumbers.AssemblyInfo.cs
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\obj\Debug\netcoreapp2.0\SortNumbers.dll
+C:\Users\DV\source\repos\Lists Lab\SortNumbers\obj\Debug\netcoreapp2.0\SortNumbers.pdb

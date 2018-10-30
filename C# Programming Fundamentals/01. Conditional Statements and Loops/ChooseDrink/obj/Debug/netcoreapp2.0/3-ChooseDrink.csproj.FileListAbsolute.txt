@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\bin\Debug\netcoreapp2.0\3-ChooseDrink.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\bin\Debug\netcoreapp2.0\3-ChooseDrink.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\bin\Debug\netcoreapp2.0\3-ChooseDrink.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\bin\Debug\netcoreapp2.0\3-ChooseDrink.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\bin\Debug\netcoreapp2.0\3-ChooseDrink.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\obj\Debug\netcoreapp2.0\3-ChooseDrink.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\obj\Debug\netcoreapp2.0\3-ChooseDrink.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\obj\Debug\netcoreapp2.0\3-ChooseDrink.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\obj\Debug\netcoreapp2.0\3-ChooseDrink.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\obj\Debug\netcoreapp2.0\3-ChooseDrink.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-ChooseDrink\obj\Debug\netcoreapp2.0\3-ChooseDrink.pdb

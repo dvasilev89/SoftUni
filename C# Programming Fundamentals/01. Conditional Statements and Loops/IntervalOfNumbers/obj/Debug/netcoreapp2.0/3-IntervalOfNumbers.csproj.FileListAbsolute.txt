@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\bin\Debug\netcoreapp2.0\3-IntervalOfNumbers.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\bin\Debug\netcoreapp2.0\3-IntervalOfNumbers.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\bin\Debug\netcoreapp2.0\3-IntervalOfNumbers.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\bin\Debug\netcoreapp2.0\3-IntervalOfNumbers.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\bin\Debug\netcoreapp2.0\3-IntervalOfNumbers.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\obj\Debug\netcoreapp2.0\3-IntervalOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\obj\Debug\netcoreapp2.0\3-IntervalOfNumbers.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\obj\Debug\netcoreapp2.0\3-IntervalOfNumbers.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\obj\Debug\netcoreapp2.0\3-IntervalOfNumbers.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-IntervalOfNumbers\obj\Debug\netcoreapp2.0\3-IntervalOfNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Exam - 1 Hogswatch.deps.json
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Exam - 1 Hogswatch.runtimeconfig.json
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Exam - 1 Hogswatch.runtimeconfig.dev.json
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Exam - 1 Hogswatch.dll
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\bin\Debug\netcoreapp2.0\Exam - 1 Hogswatch.pdb
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Exam - 1 Hogswatch.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Exam - 1 Hogswatch.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Exam - 1 Hogswatch.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Exam - 1 Hogswatch.AssemblyInfo.cs
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Exam - 1 Hogswatch.dll
+C:\Users\DV\source\repos\RegEx Lab\Problem 2 – Snowmen\obj\Debug\netcoreapp2.0\Exam - 1 Hogswatch.pdb

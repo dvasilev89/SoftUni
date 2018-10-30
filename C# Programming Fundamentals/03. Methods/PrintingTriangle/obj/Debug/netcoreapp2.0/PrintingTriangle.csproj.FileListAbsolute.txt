@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.deps.json
+C:\Users\DV\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.runtimeconfig.json
+C:\Users\DV\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.dll
+C:\Users\DV\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp2.0\PrintingTriangle.pdb
+C:\Users\DV\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.AssemblyInfo.cs
+C:\Users\DV\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.dll
+C:\Users\DV\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.pdb
+C:\Users\DV\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp2.0\PrintingTriangle.csprojResolveAssemblyReference.cache

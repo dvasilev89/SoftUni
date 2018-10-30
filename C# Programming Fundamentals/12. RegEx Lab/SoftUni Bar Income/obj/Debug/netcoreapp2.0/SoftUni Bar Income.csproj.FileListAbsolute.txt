@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.deps.json
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.runtimeconfig.json
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.dll
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.pdb
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.dll
+C:\Users\DV\source\repos\RegEx Lab\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.pdb

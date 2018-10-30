@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\bin\Debug\netcoreapp2.0\RoundingNumbers.deps.json
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\bin\Debug\netcoreapp2.0\RoundingNumbers.runtimeconfig.json
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\bin\Debug\netcoreapp2.0\RoundingNumbers.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\bin\Debug\netcoreapp2.0\RoundingNumbers.dll
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\bin\Debug\netcoreapp2.0\RoundingNumbers.pdb
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\obj\Debug\netcoreapp2.0\RoundingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\obj\Debug\netcoreapp2.0\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\obj\Debug\netcoreapp2.0\RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\obj\Debug\netcoreapp2.0\RoundingNumbers.AssemblyInfo.cs
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\obj\Debug\netcoreapp2.0\RoundingNumbers.dll
+C:\Users\DV\source\repos\Arrays Lab\RoundingNumbers\obj\Debug\netcoreapp2.0\RoundingNumbers.pdb

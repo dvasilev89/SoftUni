@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.deps.json
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.dll
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.pdb
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.dll
+C:\Users\DV\source\repos\Methods\HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\HolidaysBetweenTwoDates.pdb

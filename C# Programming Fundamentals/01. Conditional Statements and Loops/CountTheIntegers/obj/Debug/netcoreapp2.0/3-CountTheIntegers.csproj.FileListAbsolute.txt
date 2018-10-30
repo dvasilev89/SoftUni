@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\bin\Debug\netcoreapp2.0\3-CountTheIntegers.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\bin\Debug\netcoreapp2.0\3-CountTheIntegers.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\bin\Debug\netcoreapp2.0\3-CountTheIntegers.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\bin\Debug\netcoreapp2.0\3-CountTheIntegers.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\bin\Debug\netcoreapp2.0\3-CountTheIntegers.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\obj\Debug\netcoreapp2.0\3-CountTheIntegers.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\obj\Debug\netcoreapp2.0\3-CountTheIntegers.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\obj\Debug\netcoreapp2.0\3-CountTheIntegers.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\obj\Debug\netcoreapp2.0\3-CountTheIntegers.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-CountTheIntegers\obj\Debug\netcoreapp2.0\3-CountTheIntegers.pdb

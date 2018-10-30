@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\bin\Debug\netcoreapp2.0\1. Extract Emails.deps.json
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\bin\Debug\netcoreapp2.0\1. Extract Emails.runtimeconfig.json
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\bin\Debug\netcoreapp2.0\1. Extract Emails.runtimeconfig.dev.json
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\bin\Debug\netcoreapp2.0\1. Extract Emails.dll
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\bin\Debug\netcoreapp2.0\1. Extract Emails.pdb
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\obj\Debug\netcoreapp2.0\1. Extract Emails.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\obj\Debug\netcoreapp2.0\1. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\obj\Debug\netcoreapp2.0\1. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\obj\Debug\netcoreapp2.0\1. Extract Emails.AssemblyInfo.cs
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\obj\Debug\netcoreapp2.0\1. Extract Emails.dll
+C:\Users\DV\source\repos\RegEx Lab\1. Extract Emails\obj\Debug\netcoreapp2.0\1. Extract Emails.pdb

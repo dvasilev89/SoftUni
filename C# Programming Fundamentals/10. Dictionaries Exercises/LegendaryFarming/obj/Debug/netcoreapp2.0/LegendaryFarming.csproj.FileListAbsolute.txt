@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.deps.json
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.dll
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\bin\Debug\netcoreapp2.0\LegendaryFarming.pdb
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.dll
+C:\Users\DV\source\repos\Dictionaries Exercises\LegendaryFarming\obj\Debug\netcoreapp2.0\LegendaryFarming.pdb

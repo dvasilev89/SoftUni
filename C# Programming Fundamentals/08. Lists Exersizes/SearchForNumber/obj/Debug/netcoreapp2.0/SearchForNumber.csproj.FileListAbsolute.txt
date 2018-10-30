@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\bin\Debug\netcoreapp2.0\SearchForNumber.deps.json
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\bin\Debug\netcoreapp2.0\SearchForNumber.runtimeconfig.json
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\bin\Debug\netcoreapp2.0\SearchForNumber.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\bin\Debug\netcoreapp2.0\SearchForNumber.dll
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\bin\Debug\netcoreapp2.0\SearchForNumber.pdb
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\obj\Debug\netcoreapp2.0\SearchForNumber.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\obj\Debug\netcoreapp2.0\SearchForNumber.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\obj\Debug\netcoreapp2.0\SearchForNumber.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\obj\Debug\netcoreapp2.0\SearchForNumber.AssemblyInfo.cs
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\obj\Debug\netcoreapp2.0\SearchForNumber.dll
+C:\Users\DV\source\repos\Lists Exersizes\SearchForNumber\obj\Debug\netcoreapp2.0\SearchForNumber.pdb

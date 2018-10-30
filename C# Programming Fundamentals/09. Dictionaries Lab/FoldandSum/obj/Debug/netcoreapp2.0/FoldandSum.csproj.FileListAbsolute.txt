@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\bin\Debug\netcoreapp2.0\FoldandSum.deps.json
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\bin\Debug\netcoreapp2.0\FoldandSum.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\bin\Debug\netcoreapp2.0\FoldandSum.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\bin\Debug\netcoreapp2.0\FoldandSum.dll
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\bin\Debug\netcoreapp2.0\FoldandSum.pdb
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\obj\Debug\netcoreapp2.0\FoldandSum.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\obj\Debug\netcoreapp2.0\FoldandSum.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\obj\Debug\netcoreapp2.0\FoldandSum.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\obj\Debug\netcoreapp2.0\FoldandSum.dll
+C:\Users\DV\source\repos\Dictionaries Lab\FoldandSum\obj\Debug\netcoreapp2.0\FoldandSum.pdb

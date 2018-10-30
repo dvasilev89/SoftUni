@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\bin\Debug\netcoreapp2.0\Exam 4 – Iron Girder.deps.json
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\bin\Debug\netcoreapp2.0\Exam 4 – Iron Girder.runtimeconfig.json
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\bin\Debug\netcoreapp2.0\Exam 4 – Iron Girder.runtimeconfig.dev.json
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\bin\Debug\netcoreapp2.0\Exam 4 – Iron Girder.dll
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\bin\Debug\netcoreapp2.0\Exam 4 – Iron Girder.pdb
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\obj\Debug\netcoreapp2.0\Exam 4 – Iron Girder.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\obj\Debug\netcoreapp2.0\Exam 4 – Iron Girder.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\obj\Debug\netcoreapp2.0\Exam 4 – Iron Girder.AssemblyInfo.cs
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\obj\Debug\netcoreapp2.0\Exam 4 – Iron Girder.dll
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\obj\Debug\netcoreapp2.0\Exam 4 – Iron Girder.pdb
+C:\Users\DV\source\repos\RegEx Lab\Exam 4 – Iron Girder\obj\Debug\netcoreapp2.0\Exam 4 – Iron Girder.csprojAssemblyReference.cache

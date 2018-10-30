@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\bin\Debug\netcoreapp2.0\ExtractMiddleElements.deps.json
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\bin\Debug\netcoreapp2.0\ExtractMiddleElements.runtimeconfig.json
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\bin\Debug\netcoreapp2.0\ExtractMiddleElements.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\bin\Debug\netcoreapp2.0\ExtractMiddleElements.dll
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\bin\Debug\netcoreapp2.0\ExtractMiddleElements.pdb
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\obj\Debug\netcoreapp2.0\ExtractMiddleElements.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\obj\Debug\netcoreapp2.0\ExtractMiddleElements.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\obj\Debug\netcoreapp2.0\ExtractMiddleElements.AssemblyInfo.cs
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\obj\Debug\netcoreapp2.0\ExtractMiddleElements.dll
+C:\Users\DV\source\repos\Arrays Lab\ExtractMiddleElements\obj\Debug\netcoreapp2.0\ExtractMiddleElements.pdb

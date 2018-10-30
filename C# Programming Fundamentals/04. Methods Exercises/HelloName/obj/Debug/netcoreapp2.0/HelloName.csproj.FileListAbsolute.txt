@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Methods Exercises\HelloName\bin\Debug\netcoreapp2.0\HelloName.deps.json
+C:\Users\DV\source\repos\Methods Exercises\HelloName\bin\Debug\netcoreapp2.0\HelloName.runtimeconfig.json
+C:\Users\DV\source\repos\Methods Exercises\HelloName\bin\Debug\netcoreapp2.0\HelloName.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Methods Exercises\HelloName\bin\Debug\netcoreapp2.0\HelloName.dll
+C:\Users\DV\source\repos\Methods Exercises\HelloName\bin\Debug\netcoreapp2.0\HelloName.pdb
+C:\Users\DV\source\repos\Methods Exercises\HelloName\obj\Debug\netcoreapp2.0\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Methods Exercises\HelloName\obj\Debug\netcoreapp2.0\HelloName.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Methods Exercises\HelloName\obj\Debug\netcoreapp2.0\HelloName.AssemblyInfo.cs
+C:\Users\DV\source\repos\Methods Exercises\HelloName\obj\Debug\netcoreapp2.0\HelloName.dll
+C:\Users\DV\source\repos\Methods Exercises\HelloName\obj\Debug\netcoreapp2.0\HelloName.pdb

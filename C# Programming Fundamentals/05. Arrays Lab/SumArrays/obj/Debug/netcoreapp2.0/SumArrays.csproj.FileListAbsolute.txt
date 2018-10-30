@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\bin\Debug\netcoreapp2.0\SumArrays.deps.json
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\bin\Debug\netcoreapp2.0\SumArrays.runtimeconfig.json
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\bin\Debug\netcoreapp2.0\SumArrays.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\bin\Debug\netcoreapp2.0\SumArrays.dll
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\bin\Debug\netcoreapp2.0\SumArrays.pdb
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\obj\Debug\netcoreapp2.0\SumArrays.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\obj\Debug\netcoreapp2.0\SumArrays.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\obj\Debug\netcoreapp2.0\SumArrays.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\obj\Debug\netcoreapp2.0\SumArrays.AssemblyInfo.cs
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\obj\Debug\netcoreapp2.0\SumArrays.dll
+C:\Users\DV\source\repos\Arrays Lab\SumArrays\obj\Debug\netcoreapp2.0\SumArrays.pdb

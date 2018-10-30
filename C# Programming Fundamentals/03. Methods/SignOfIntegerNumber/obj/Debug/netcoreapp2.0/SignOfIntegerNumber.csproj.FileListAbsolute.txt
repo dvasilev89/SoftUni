@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.deps.json
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.runtimeconfig.json
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.dll
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\bin\Debug\netcoreapp2.0\SignOfIntegerNumber.pdb
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.AssemblyInfo.cs
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.dll
+C:\Users\DV\source\repos\Methods\SignOfIntegerNumber\obj\Debug\netcoreapp2.0\SignOfIntegerNumber.pdb

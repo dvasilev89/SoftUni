@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\bin\Debug\netcoreapp2.0\2-BackIn30Minutes.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\bin\Debug\netcoreapp2.0\2-BackIn30Minutes.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\bin\Debug\netcoreapp2.0\2-BackIn30Minutes.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\bin\Debug\netcoreapp2.0\2-BackIn30Minutes.dll
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\bin\Debug\netcoreapp2.0\2-BackIn30Minutes.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\obj\Debug\netcoreapp2.0\2-BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\obj\Debug\netcoreapp2.0\2-BackIn30Minutes.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\obj\Debug\netcoreapp2.0\2-BackIn30Minutes.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\obj\Debug\netcoreapp2.0\2-BackIn30Minutes.dll
+C:\Users\DV\source\repos\Programming Fundamentals\2-BackIn30Minutes\obj\Debug\netcoreapp2.0\2-BackIn30Minutes.pdb

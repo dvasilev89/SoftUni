@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\bin\Debug\netcoreapp2.0\Greetings.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\bin\Debug\netcoreapp2.0\Greetings.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\bin\Debug\netcoreapp2.0\Greetings.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\bin\Debug\netcoreapp2.0\Greetings.dll
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\bin\Debug\netcoreapp2.0\Greetings.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\obj\Debug\netcoreapp2.0\Greetings.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\obj\Debug\netcoreapp2.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\obj\Debug\netcoreapp2.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\obj\Debug\netcoreapp2.0\Greetings.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\obj\Debug\netcoreapp2.0\Greetings.dll
+C:\Users\DV\source\repos\Programming Fundamentals\Greetings\obj\Debug\netcoreapp2.0\Greetings.pdb

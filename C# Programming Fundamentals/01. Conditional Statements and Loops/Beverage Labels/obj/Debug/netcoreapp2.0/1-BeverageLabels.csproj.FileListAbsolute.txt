@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\bin\Debug\netcoreapp2.0\1-BeverageLabels.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\bin\Debug\netcoreapp2.0\1-BeverageLabels.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\bin\Debug\netcoreapp2.0\1-BeverageLabels.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\bin\Debug\netcoreapp2.0\1-BeverageLabels.dll
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\bin\Debug\netcoreapp2.0\1-BeverageLabels.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\obj\Debug\netcoreapp2.0\1-BeverageLabels.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\obj\Debug\netcoreapp2.0\1-BeverageLabels.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\obj\Debug\netcoreapp2.0\1-BeverageLabels.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\obj\Debug\netcoreapp2.0\1-BeverageLabels.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\obj\Debug\netcoreapp2.0\1-BeverageLabels.dll
+C:\Users\DV\source\repos\Programming Fundamentals\1-BeverageLabels\obj\Debug\netcoreapp2.0\1-BeverageLabels.pdb

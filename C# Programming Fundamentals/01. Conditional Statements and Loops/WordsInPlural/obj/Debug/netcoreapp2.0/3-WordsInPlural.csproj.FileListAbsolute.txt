@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\bin\Debug\netcoreapp2.0\3-WordsInPlural.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\bin\Debug\netcoreapp2.0\3-WordsInPlural.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\bin\Debug\netcoreapp2.0\3-WordsInPlural.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\bin\Debug\netcoreapp2.0\3-WordsInPlural.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\bin\Debug\netcoreapp2.0\3-WordsInPlural.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\obj\Debug\netcoreapp2.0\3-WordsInPlural.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\obj\Debug\netcoreapp2.0\3-WordsInPlural.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\obj\Debug\netcoreapp2.0\3-WordsInPlural.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\obj\Debug\netcoreapp2.0\3-WordsInPlural.dll
+C:\Users\DV\source\repos\Programming Fundamentals\3-WordsInPlural\obj\Debug\netcoreapp2.0\3-WordsInPlural.pdb

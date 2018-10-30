@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\bin\Debug\netcoreapp2.0\NumbersinReversedOrder.deps.json
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\bin\Debug\netcoreapp2.0\NumbersinReversedOrder.runtimeconfig.json
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\bin\Debug\netcoreapp2.0\NumbersinReversedOrder.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\bin\Debug\netcoreapp2.0\NumbersinReversedOrder.dll
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\bin\Debug\netcoreapp2.0\NumbersinReversedOrder.pdb
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\obj\Debug\netcoreapp2.0\NumbersinReversedOrder.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\obj\Debug\netcoreapp2.0\NumbersinReversedOrder.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\obj\Debug\netcoreapp2.0\NumbersinReversedOrder.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\obj\Debug\netcoreapp2.0\NumbersinReversedOrder.AssemblyInfo.cs
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\obj\Debug\netcoreapp2.0\NumbersinReversedOrder.dll
+C:\Users\DV\source\repos\Methods Exercises\NumbersinReversedOrder\obj\Debug\netcoreapp2.0\NumbersinReversedOrder.pdb

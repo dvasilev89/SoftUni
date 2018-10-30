@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\bin\Debug\netcoreapp2.0\2-MultiplicationTable.deps.json
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\bin\Debug\netcoreapp2.0\2-MultiplicationTable.runtimeconfig.json
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\bin\Debug\netcoreapp2.0\2-MultiplicationTable.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\bin\Debug\netcoreapp2.0\2-MultiplicationTable.dll
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\bin\Debug\netcoreapp2.0\2-MultiplicationTable.pdb
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\obj\Debug\netcoreapp2.0\2-MultiplicationTable.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\obj\Debug\netcoreapp2.0\2-MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\obj\Debug\netcoreapp2.0\2-MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\obj\Debug\netcoreapp2.0\2-MultiplicationTable.AssemblyInfo.cs
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\obj\Debug\netcoreapp2.0\2-MultiplicationTable.dll
+C:\Users\DV\source\repos\Programming Fundamentals\2-MultiplicationTable\obj\Debug\netcoreapp2.0\2-MultiplicationTable.pdb

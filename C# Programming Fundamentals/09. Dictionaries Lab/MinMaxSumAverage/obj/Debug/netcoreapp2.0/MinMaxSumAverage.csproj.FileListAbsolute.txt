@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\bin\Debug\netcoreapp2.0\MinMaxSumAverage.deps.json
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\bin\Debug\netcoreapp2.0\MinMaxSumAverage.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\bin\Debug\netcoreapp2.0\MinMaxSumAverage.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\bin\Debug\netcoreapp2.0\MinMaxSumAverage.dll
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\bin\Debug\netcoreapp2.0\MinMaxSumAverage.pdb
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\obj\Debug\netcoreapp2.0\MinMaxSumAverage.csprojResolveAssemblyReference.cache
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\obj\Debug\netcoreapp2.0\MinMaxSumAverage.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\obj\Debug\netcoreapp2.0\MinMaxSumAverage.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\obj\Debug\netcoreapp2.0\MinMaxSumAverage.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\obj\Debug\netcoreapp2.0\MinMaxSumAverage.dll
+C:\Users\DV\source\repos\Dictionaries Lab\MinMaxSumAverage\obj\Debug\netcoreapp2.0\MinMaxSumAverage.pdb
