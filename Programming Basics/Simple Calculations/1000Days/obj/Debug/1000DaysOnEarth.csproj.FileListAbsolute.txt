@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\1000Days\bin\Debug\1000Days.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\1000Days\bin\Debug\1000Days.exe
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\1000Days\bin\Debug\1000Days.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\1000Days\obj\Debug\1000DaysOnEarth.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\1000Days\obj\Debug\1000DaysOnEarth.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\1000Days\obj\Debug\1000Days.exe
+D:\SoftUni\Visual Studio\Projects\SimpleCalc\1000Days\obj\Debug\1000Days.pdb
