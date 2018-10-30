@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\bin\Debug\netcoreapp2.1\CountSameValuesArray.deps.json
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\bin\Debug\netcoreapp2.1\CountSameValuesArray.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\bin\Debug\netcoreapp2.1\CountSameValuesArray.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\bin\Debug\netcoreapp2.1\CountSameValuesArray.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\bin\Debug\netcoreapp2.1\CountSameValuesArray.pdb
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\obj\Debug\netcoreapp2.1\CountSameValuesArray.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\obj\Debug\netcoreapp2.1\CountSameValuesArray.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\obj\Debug\netcoreapp2.1\CountSameValuesArray.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\obj\Debug\netcoreapp2.1\CountSameValuesArray.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\obj\Debug\netcoreapp2.1\CountSameValuesArray.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\CountSameValuesArray\obj\Debug\netcoreapp2.1\CountSameValuesArray.pdb

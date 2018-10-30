@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.deps.json
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.runtimeconfig.json
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.dll
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\bin\Debug\netcoreapp2.1\CustomComparator.pdb
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.AssemblyInfo.cs
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.dll
+C:\Users\DV\source\repos\Functional Programming\CustomComparator\obj\Debug\netcoreapp2.1\CustomComparator.pdb

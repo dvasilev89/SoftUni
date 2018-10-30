@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\bin\Debug\netcoreapp2.1\LegoBlocks.deps.json
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\bin\Debug\netcoreapp2.1\LegoBlocks.runtimeconfig.json
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\bin\Debug\netcoreapp2.1\LegoBlocks.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\bin\Debug\netcoreapp2.1\LegoBlocks.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\bin\Debug\netcoreapp2.1\LegoBlocks.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\obj\Debug\netcoreapp2.1\LegoBlocks.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\obj\Debug\netcoreapp2.1\LegoBlocks.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\obj\Debug\netcoreapp2.1\LegoBlocks.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\obj\Debug\netcoreapp2.1\LegoBlocks.AssemblyInfo.cs
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\obj\Debug\netcoreapp2.1\LegoBlocks.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\LegoBlocks\obj\Debug\netcoreapp2.1\LegoBlocks.pdb

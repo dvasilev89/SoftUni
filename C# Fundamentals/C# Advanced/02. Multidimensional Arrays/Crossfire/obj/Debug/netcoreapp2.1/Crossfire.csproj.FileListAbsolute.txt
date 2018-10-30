@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.deps.json
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.runtimeconfig.json
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\bin\Debug\netcoreapp2.1\Crossfire.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.AssemblyInfo.cs
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\Crossfire\obj\Debug\netcoreapp2.1\Crossfire.csprojAssemblyReference.cache

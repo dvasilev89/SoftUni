@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\bin\Debug\netcoreapp2.1\RubiksMatrix.deps.json
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\bin\Debug\netcoreapp2.1\RubiksMatrix.runtimeconfig.json
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\bin\Debug\netcoreapp2.1\RubiksMatrix.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\bin\Debug\netcoreapp2.1\RubiksMatrix.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\bin\Debug\netcoreapp2.1\RubiksMatrix.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\obj\Debug\netcoreapp2.1\RubiksMatrix.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\obj\Debug\netcoreapp2.1\RubiksMatrix.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\obj\Debug\netcoreapp2.1\RubiksMatrix.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\obj\Debug\netcoreapp2.1\RubiksMatrix.AssemblyInfo.cs
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\obj\Debug\netcoreapp2.1\RubiksMatrix.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\RubiksMatrix\obj\Debug\netcoreapp2.1\RubiksMatrix.pdb

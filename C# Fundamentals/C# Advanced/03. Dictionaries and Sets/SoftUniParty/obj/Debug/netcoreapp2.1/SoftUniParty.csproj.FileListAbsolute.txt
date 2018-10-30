@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.deps.json
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\bin\Debug\netcoreapp2.1\SoftUniParty.pdb
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\SoftUniParty\obj\Debug\netcoreapp2.1\SoftUniParty.pdb

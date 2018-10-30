@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\bin\Debug\netcoreapp2.1\SymbolMatrix.deps.json
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\bin\Debug\netcoreapp2.1\SymbolMatrix.runtimeconfig.json
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\bin\Debug\netcoreapp2.1\SymbolMatrix.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\bin\Debug\netcoreapp2.1\SymbolMatrix.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\bin\Debug\netcoreapp2.1\SymbolMatrix.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\obj\Debug\netcoreapp2.1\SymbolMatrix.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\obj\Debug\netcoreapp2.1\SymbolMatrix.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\obj\Debug\netcoreapp2.1\SymbolMatrix.AssemblyInfo.cs
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\obj\Debug\netcoreapp2.1\SymbolMatrix.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\obj\Debug\netcoreapp2.1\SymbolMatrix.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\SymbolMatrix\obj\Debug\netcoreapp2.1\SymbolMatrix.csprojAssemblyReference.cache

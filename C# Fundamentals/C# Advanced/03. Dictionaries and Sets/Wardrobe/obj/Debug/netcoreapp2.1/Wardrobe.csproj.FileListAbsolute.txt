@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.deps.json
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.pdb
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.pdb

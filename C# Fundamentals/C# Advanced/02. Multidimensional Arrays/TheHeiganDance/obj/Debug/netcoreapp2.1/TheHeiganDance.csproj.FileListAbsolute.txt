@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\bin\Debug\netcoreapp2.1\TheHeiganDance.deps.json
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\bin\Debug\netcoreapp2.1\TheHeiganDance.runtimeconfig.json
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\bin\Debug\netcoreapp2.1\TheHeiganDance.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\bin\Debug\netcoreapp2.1\TheHeiganDance.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\bin\Debug\netcoreapp2.1\TheHeiganDance.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\obj\Debug\netcoreapp2.1\TheHeiganDance.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\obj\Debug\netcoreapp2.1\TheHeiganDance.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\obj\Debug\netcoreapp2.1\TheHeiganDance.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\obj\Debug\netcoreapp2.1\TheHeiganDance.AssemblyInfo.cs
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\obj\Debug\netcoreapp2.1\TheHeiganDance.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\TheHeiganDance\obj\Debug\netcoreapp2.1\TheHeiganDance.pdb

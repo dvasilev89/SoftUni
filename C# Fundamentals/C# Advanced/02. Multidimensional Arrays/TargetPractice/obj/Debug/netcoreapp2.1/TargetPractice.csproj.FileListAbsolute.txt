@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\bin\Debug\netcoreapp2.1\TargetPractice.deps.json
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\bin\Debug\netcoreapp2.1\TargetPractice.runtimeconfig.json
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\bin\Debug\netcoreapp2.1\TargetPractice.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\bin\Debug\netcoreapp2.1\TargetPractice.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\bin\Debug\netcoreapp2.1\TargetPractice.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\obj\Debug\netcoreapp2.1\TargetPractice.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\obj\Debug\netcoreapp2.1\TargetPractice.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\obj\Debug\netcoreapp2.1\TargetPractice.AssemblyInfo.cs
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\obj\Debug\netcoreapp2.1\TargetPractice.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\obj\Debug\netcoreapp2.1\TargetPractice.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\TargetPractice\obj\Debug\netcoreapp2.1\TargetPractice.csprojAssemblyReference.cache

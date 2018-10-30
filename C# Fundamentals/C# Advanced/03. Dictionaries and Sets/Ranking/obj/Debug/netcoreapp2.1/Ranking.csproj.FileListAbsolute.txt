@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\bin\Debug\netcoreapp2.1\Ranking.deps.json
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\bin\Debug\netcoreapp2.1\Ranking.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\bin\Debug\netcoreapp2.1\Ranking.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\bin\Debug\netcoreapp2.1\Ranking.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\bin\Debug\netcoreapp2.1\Ranking.pdb
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\obj\Debug\netcoreapp2.1\Ranking.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\obj\Debug\netcoreapp2.1\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\obj\Debug\netcoreapp2.1\Ranking.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\obj\Debug\netcoreapp2.1\Ranking.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\obj\Debug\netcoreapp2.1\Ranking.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\Ranking\obj\Debug\netcoreapp2.1\Ranking.pdb

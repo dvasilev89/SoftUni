@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.deps.json
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.runtimeconfig.json
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.dll
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp2.1\CustomMinFunction.pdb
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.AssemblyInfo.cs
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.dll
+C:\Users\DV\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp2.1\CustomMinFunction.pdb

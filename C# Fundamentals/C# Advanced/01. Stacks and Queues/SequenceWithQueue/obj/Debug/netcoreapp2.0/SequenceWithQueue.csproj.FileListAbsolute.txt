@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\bin\Debug\netcoreapp2.0\SequenceWithQueue.deps.json
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\bin\Debug\netcoreapp2.0\SequenceWithQueue.runtimeconfig.json
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\bin\Debug\netcoreapp2.0\SequenceWithQueue.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\bin\Debug\netcoreapp2.0\SequenceWithQueue.dll
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\bin\Debug\netcoreapp2.0\SequenceWithQueue.pdb
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\obj\Debug\netcoreapp2.0\SequenceWithQueue.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\obj\Debug\netcoreapp2.0\SequenceWithQueue.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\obj\Debug\netcoreapp2.0\SequenceWithQueue.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\obj\Debug\netcoreapp2.0\SequenceWithQueue.AssemblyInfo.cs
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\obj\Debug\netcoreapp2.0\SequenceWithQueue.dll
+C:\Users\DV\source\repos\Stacks and Queues\SequenceWithQueue\obj\Debug\netcoreapp2.0\SequenceWithQueue.pdb

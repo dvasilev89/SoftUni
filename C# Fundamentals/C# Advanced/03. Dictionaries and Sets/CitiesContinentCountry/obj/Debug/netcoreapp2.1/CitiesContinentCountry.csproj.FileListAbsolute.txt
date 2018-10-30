@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.deps.json
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\bin\Debug\netcoreapp2.1\CitiesContinentCountry.pdb
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\CitiesContinentCountry\obj\Debug\netcoreapp2.1\CitiesContinentCountry.pdb

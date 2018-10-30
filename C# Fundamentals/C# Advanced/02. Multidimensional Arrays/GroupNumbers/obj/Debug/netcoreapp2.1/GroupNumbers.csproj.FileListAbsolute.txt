@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.deps.json
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.runtimeconfig.json
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\bin\Debug\netcoreapp2.1\GroupNumbers.pdb
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.AssemblyInfo.cs
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.dll
+C:\Users\DV\source\repos\Multidimensional Arrays\GroupNumbers\obj\Debug\netcoreapp2.1\GroupNumbers.pdb

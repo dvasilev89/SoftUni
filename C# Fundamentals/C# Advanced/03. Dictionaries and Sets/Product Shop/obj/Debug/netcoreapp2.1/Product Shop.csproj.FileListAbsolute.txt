@@ -1,0 +1,11 @@
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.deps.json
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.pdb
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.csprojAssemblyReference.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.pdb

@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.deps.json
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.json
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.pdb
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.dll
+C:\Users\DV\source\repos\Dictionaries and Sets\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.pdb

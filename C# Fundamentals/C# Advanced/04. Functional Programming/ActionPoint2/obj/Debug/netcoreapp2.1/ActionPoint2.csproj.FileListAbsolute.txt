@@ -1,0 +1,10 @@
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\bin\Debug\netcoreapp2.1\ActionPoint2.deps.json
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\bin\Debug\netcoreapp2.1\ActionPoint2.runtimeconfig.json
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\bin\Debug\netcoreapp2.1\ActionPoint2.runtimeconfig.dev.json
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\bin\Debug\netcoreapp2.1\ActionPoint2.dll
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\bin\Debug\netcoreapp2.1\ActionPoint2.pdb
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\obj\Debug\netcoreapp2.1\ActionPoint2.csproj.CoreCompileInputs.cache
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\obj\Debug\netcoreapp2.1\ActionPoint2.AssemblyInfoInputs.cache
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\obj\Debug\netcoreapp2.1\ActionPoint2.AssemblyInfo.cs
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\obj\Debug\netcoreapp2.1\ActionPoint2.dll
+C:\Users\DV\source\repos\Functional Programming\ActionPoint2\obj\Debug\netcoreapp2.1\ActionPoint2.pdb
