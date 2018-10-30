@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\LeftRightSum\bin\Debug\LeftRightSum.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\LeftRightSum\bin\Debug\LeftRightSum.exe
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\LeftRightSum\bin\Debug\LeftRightSum.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\LeftRightSum\obj\Debug\LeftRightSum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\LeftRightSum\obj\Debug\LeftRightSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\LeftRightSum\obj\Debug\LeftRightSum.exe
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\LeftRightSum\obj\Debug\LeftRightSum.pdb

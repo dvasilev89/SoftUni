@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

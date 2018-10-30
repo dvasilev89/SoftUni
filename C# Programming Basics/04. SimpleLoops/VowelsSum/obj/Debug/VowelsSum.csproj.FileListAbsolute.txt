@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\VowelsSum\bin\Debug\VowelsSum.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\VowelsSum\bin\Debug\VowelsSum.exe
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\VowelsSum\bin\Debug\VowelsSum.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\VowelsSum\obj\Debug\VowelsSum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\VowelsSum\obj\Debug\VowelsSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\VowelsSum\obj\Debug\VowelsSum.exe
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\VowelsSum\obj\Debug\VowelsSum.pdb

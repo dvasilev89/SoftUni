@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe.config
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\SmallShop\bin\Debug\SmallShop.pdb
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\SmallShop\obj\Debug\SmallShop.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\SmallShop\obj\Debug\SmallShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\SmallShop\obj\Debug\SmallShop.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\SmallShop\obj\Debug\SmallShop.pdb

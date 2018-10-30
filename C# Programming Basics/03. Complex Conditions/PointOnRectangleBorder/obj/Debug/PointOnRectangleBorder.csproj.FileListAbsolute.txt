@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

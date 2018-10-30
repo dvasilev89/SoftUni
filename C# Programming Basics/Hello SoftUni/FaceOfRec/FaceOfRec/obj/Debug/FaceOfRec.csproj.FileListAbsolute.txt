@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\FaceOfRec\FaceOfRec\bin\Debug\FaceOfRec.exe.config
+D:\SoftUni\Visual Studio\Projects\FaceOfRec\FaceOfRec\bin\Debug\FaceOfRec.exe
+D:\SoftUni\Visual Studio\Projects\FaceOfRec\FaceOfRec\bin\Debug\FaceOfRec.pdb
+D:\SoftUni\Visual Studio\Projects\FaceOfRec\FaceOfRec\obj\Debug\FaceOfRec.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\FaceOfRec\FaceOfRec\obj\Debug\FaceOfRec.exe
+D:\SoftUni\Visual Studio\Projects\FaceOfRec\FaceOfRec\obj\Debug\FaceOfRec.pdb

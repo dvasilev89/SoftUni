@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\SoftUni\Visual Studio\Projects\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\SoftUni\Visual Studio\Projects\SquareOfStars\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\SoftUni\Visual Studio\Projects\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\SoftUni\Visual Studio\Projects\SquareOfStars\SquareOfStars\obj\Debug\SquareOfStars.pdb

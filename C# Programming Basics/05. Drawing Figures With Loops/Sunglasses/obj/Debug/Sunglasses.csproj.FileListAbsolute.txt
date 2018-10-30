@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Sunglasses\bin\Debug\Sunglasses.exe.config
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Sunglasses\bin\Debug\Sunglasses.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Sunglasses\bin\Debug\Sunglasses.pdb
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Sunglasses\obj\Debug\Sunglasses.pdb

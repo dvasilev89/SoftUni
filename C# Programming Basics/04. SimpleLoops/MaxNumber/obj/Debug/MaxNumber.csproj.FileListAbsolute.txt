@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Solution1\MaxNumber\bin\Debug\MaxNumber.exe.config
+D:\SoftUni\Visual Studio\Projects\Solution1\MaxNumber\bin\Debug\MaxNumber.exe
+D:\SoftUni\Visual Studio\Projects\Solution1\MaxNumber\bin\Debug\MaxNumber.pdb
+D:\SoftUni\Visual Studio\Projects\Solution1\MaxNumber\obj\Debug\MaxNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Solution1\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Solution1\MaxNumber\obj\Debug\MaxNumber.exe
+D:\SoftUni\Visual Studio\Projects\Solution1\MaxNumber\obj\Debug\MaxNumber.pdb

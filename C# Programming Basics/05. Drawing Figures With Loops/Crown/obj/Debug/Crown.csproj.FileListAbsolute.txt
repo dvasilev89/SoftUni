@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Crown\bin\Debug\Crown.exe.config
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Crown\bin\Debug\Crown.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Crown\bin\Debug\Crown.pdb
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Crown\obj\Debug\Crown.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Crown\obj\Debug\Crown.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Crown\obj\Debug\Crown.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Crown\obj\Debug\Crown.pdb

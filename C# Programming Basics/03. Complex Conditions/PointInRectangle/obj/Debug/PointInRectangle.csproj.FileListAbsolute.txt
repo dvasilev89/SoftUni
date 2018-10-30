@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.exe.config
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.pdb
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.pdb

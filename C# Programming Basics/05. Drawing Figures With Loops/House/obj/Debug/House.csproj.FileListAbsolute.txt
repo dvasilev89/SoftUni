@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\House\bin\Debug\House.exe.config
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\House\bin\Debug\House.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\House\bin\Debug\House.pdb
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\House\obj\Debug\House.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\House\obj\Debug\House.pdb

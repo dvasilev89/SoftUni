@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Diamond\bin\Debug\Diamond.exe.config
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Diamond\bin\Debug\Diamond.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Diamond\bin\Debug\Diamond.pdb
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Diamond\obj\Debug\Diamond.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\Diamond\obj\Debug\Diamond.pdb

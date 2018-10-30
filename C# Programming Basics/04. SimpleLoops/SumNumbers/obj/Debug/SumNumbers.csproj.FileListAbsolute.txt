@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\Solution1\SumNumbers\bin\Debug\SumNumbers.exe.config
+D:\SoftUni\Visual Studio\Projects\Solution1\SumNumbers\bin\Debug\SumNumbers.exe
+D:\SoftUni\Visual Studio\Projects\Solution1\SumNumbers\bin\Debug\SumNumbers.pdb
+D:\SoftUni\Visual Studio\Projects\Solution1\SumNumbers\obj\Debug\SumNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\Solution1\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Solution1\SumNumbers\obj\Debug\SumNumbers.exe
+D:\SoftUni\Visual Studio\Projects\Solution1\SumNumbers\obj\Debug\SumNumbers.pdb

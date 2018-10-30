@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.pdb
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.exe
+D:\SoftUni\Visual Studio\Projects\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.pdb

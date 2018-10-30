@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RectangleNXN\bin\Debug\RectangleNXN.exe.config
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RectangleNXN\bin\Debug\RectangleNXN.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RectangleNXN\bin\Debug\RectangleNXN.pdb
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RectangleNXN\obj\Debug\RectangleNXN.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RectangleNXN\obj\Debug\RectangleNXN.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RectangleNXN\obj\Debug\RectangleNXN.pdb
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RectangleNXN\obj\Debug\RectangleNXN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

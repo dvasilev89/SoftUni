@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\SoftUni\Visual Studio\Projects\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\SoftUni\Visual Studio\Projects\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\SoftUni\Visual Studio\Projects\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\SoftUni\Visual Studio\Projects\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

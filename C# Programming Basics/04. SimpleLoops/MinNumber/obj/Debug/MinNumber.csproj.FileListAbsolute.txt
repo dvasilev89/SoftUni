@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\Solution1\MinNumber\bin\Debug\MinNumber.exe.config
+D:\SoftUni\Visual Studio\Projects\Solution1\MinNumber\bin\Debug\MinNumber.exe
+D:\SoftUni\Visual Studio\Projects\Solution1\MinNumber\bin\Debug\MinNumber.pdb
+D:\SoftUni\Visual Studio\Projects\Solution1\MinNumber\obj\Debug\MinNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\Solution1\MinNumber\obj\Debug\MinNumber.exe
+D:\SoftUni\Visual Studio\Projects\Solution1\MinNumber\obj\Debug\MinNumber.pdb

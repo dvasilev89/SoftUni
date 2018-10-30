@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\HelloSoftUni\HelloSoftUni\bin\Debug\HelloSoftUni.exe.config
+D:\SoftUni\Visual Studio\Projects\HelloSoftUni\HelloSoftUni\bin\Debug\HelloSoftUni.exe
+D:\SoftUni\Visual Studio\Projects\HelloSoftUni\HelloSoftUni\bin\Debug\HelloSoftUni.pdb
+D:\SoftUni\Visual Studio\Projects\HelloSoftUni\HelloSoftUni\obj\Debug\HelloSoftUni.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\HelloSoftUni\HelloSoftUni\obj\Debug\HelloSoftUni.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\HelloSoftUni\HelloSoftUni\obj\Debug\HelloSoftUni.exe
+D:\SoftUni\Visual Studio\Projects\HelloSoftUni\HelloSoftUni\obj\Debug\HelloSoftUni.pdb

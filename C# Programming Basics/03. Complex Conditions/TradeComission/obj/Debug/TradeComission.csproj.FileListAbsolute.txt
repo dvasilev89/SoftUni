@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\TradeComission\bin\Debug\TradeComission.exe.config
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\TradeComission\bin\Debug\TradeComission.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\TradeComission\bin\Debug\TradeComission.pdb
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\TradeComission\obj\Debug\TradeComission.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\TradeComission\obj\Debug\TradeComission.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\TradeComission\obj\Debug\TradeComission.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\TradeComission\obj\Debug\TradeComission.pdb

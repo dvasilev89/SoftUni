@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\DayOfWeek\obj\Debug\DayOfWeek.pdb

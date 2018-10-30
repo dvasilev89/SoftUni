@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\AnimalType\bin\Debug\AnimalType.exe.config
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\AnimalType\bin\Debug\AnimalType.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\AnimalType\bin\Debug\AnimalType.pdb
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\AnimalType\obj\Debug\AnimalType.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\AnimalType\obj\Debug\AnimalType.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\AnimalType\obj\Debug\AnimalType.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\AnimalType\obj\Debug\AnimalType.pdb

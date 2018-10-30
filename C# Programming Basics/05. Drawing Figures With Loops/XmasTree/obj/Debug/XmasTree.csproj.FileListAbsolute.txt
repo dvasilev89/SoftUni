@@ -1,0 +1,6 @@
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\XmasTree\bin\Debug\XmasTree.exe.config
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\XmasTree\bin\Debug\XmasTree.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\XmasTree\bin\Debug\XmasTree.pdb
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\XmasTree\obj\Debug\XmasTree.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\XmasTree\obj\Debug\XmasTree.exe
+D:\SoftUni\Visual Studio\Projects\DrawingFiguresWithLoops\XmasTree\obj\Debug\XmasTree.pdb

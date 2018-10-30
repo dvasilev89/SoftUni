@@ -1,0 +1,7 @@
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\Cinema\bin\Debug\Cinema.exe.config
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\Cinema\bin\Debug\Cinema.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\Cinema\bin\Debug\Cinema.pdb
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\Cinema\obj\Debug\Cinema.exe
+D:\SoftUni\Visual Studio\Projects\ComplexConditions\Cinema\obj\Debug\Cinema.pdb
