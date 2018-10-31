@@ -1,0 +1,85 @@
+<div class="container body-content span=8 offset=2">
+    <div class="well">
+        <form class="form-inline" action="/" method="POST">
+            <fieldset>
+                <div class="form-group">
+                    <div class="col-sm-1 ">
+                        <input type="number" step="any" class="form-control" id="leftOperand"
+                               placeholder="X"
+                               name="calculator[leftOperand]"
+                               value="{{calculator.leftOperand}}">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-10">
+                        <select class="form-control" name="calculator[operator]" id="operator">
+                            <option value="+"{{selectif calculator.operator '+'}}>
+                                +
+                            </option>
+                            <option value="-"{{selectif calculator.operator '-'}}>
+                                -
+                            </option>
+                            <option value="*"{{selectif calculator.operator '*'}}>
+                                *
+                            </option>
+                            <option value="/"{{selectif calculator.operator '/'}}>
+                                /
+                            </option>
+                            <option value="mod"{{selectif calculator.operator 'mod'}}>
+                                mod
+                            </option>
+                            <option value="pow"{{selectif calculator.operator 'pow'}}>
+                                pow
+                            </option>
+                            <option value="What is X% of Y"{{selectif calculator.operator 'What is X% of Y'}}>
+                                What is X% of Y
+                            </option>
+                            <option value="X is what % of Y"{{selectif calculator.operator 'X is what % of Y'}}>
+                                X is what % of Y
+                            </option>
+                            <option value="√X"{{selectif calculator.operator '√X'}}>
+                                √X
+                            </option>
+                            <option value="X!"{{selectif calculator.operator 'X!'}}>
+                                X!
+                            </option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-4 ">
+                        <input type="number" step="any" class="form-control" id="rightOperand"
+                               placeholder="Y"
+                               name="calculator[rightOperand]"
+                               value="{{calculator.rightOperand}}">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-2 ">
+                        <p>=</p>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-4 ">
+                        <input type="text" class="form-control" id="result"
+                               placeholder="Result"
+                               name="result"
+                               value="{{result}}"
+                               readonly="readonly">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-4 col-sm-offset-4">
+                        <button type="submit" class="btn btn-primary">
+                            Calculate
+                        </button>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
