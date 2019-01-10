@@ -1,0 +1,11 @@
+D:\Visual Studio\C# OOP\Inheritance\Mankind\bin\Debug\netcoreapp2.1\Mankind.deps.json
+D:\Visual Studio\C# OOP\Inheritance\Mankind\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.json
+D:\Visual Studio\C# OOP\Inheritance\Mankind\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.dev.json
+D:\Visual Studio\C# OOP\Inheritance\Mankind\bin\Debug\netcoreapp2.1\Mankind.dll
+D:\Visual Studio\C# OOP\Inheritance\Mankind\bin\Debug\netcoreapp2.1\Mankind.pdb
+D:\Visual Studio\C# OOP\Inheritance\Mankind\obj\Debug\netcoreapp2.1\Mankind.csprojAssemblyReference.cache
+D:\Visual Studio\C# OOP\Inheritance\Mankind\obj\Debug\netcoreapp2.1\Mankind.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# OOP\Inheritance\Mankind\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfoInputs.cache
+D:\Visual Studio\C# OOP\Inheritance\Mankind\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfo.cs
+D:\Visual Studio\C# OOP\Inheritance\Mankind\obj\Debug\netcoreapp2.1\Mankind.dll
+D:\Visual Studio\C# OOP\Inheritance\Mankind\obj\Debug\netcoreapp2.1\Mankind.pdb

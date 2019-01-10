@@ -1,0 +1,11 @@
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.pdb
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.pdb

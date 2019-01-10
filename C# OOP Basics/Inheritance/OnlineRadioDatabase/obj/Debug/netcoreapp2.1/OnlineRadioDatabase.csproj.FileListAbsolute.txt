@@ -1,0 +1,11 @@
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.deps.json
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.runtimeconfig.json
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.runtimeconfig.dev.json
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.dll
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.pdb
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.csprojAssemblyReference.cache
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.AssemblyInfoInputs.cache
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.AssemblyInfo.cs
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.dll
+D:\Visual Studio\C# OOP\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.pdb

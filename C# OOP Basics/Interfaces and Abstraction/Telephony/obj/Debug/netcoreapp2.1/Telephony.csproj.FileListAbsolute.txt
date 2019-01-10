@@ -1,0 +1,11 @@
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.1\Telephony.deps.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.1\Telephony.runtimeconfig.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.1\Telephony.runtimeconfig.dev.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.1\Telephony.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\bin\Debug\netcoreapp2.1\Telephony.pdb
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.1\Telephony.csprojAssemblyReference.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.1\Telephony.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.1\Telephony.AssemblyInfoInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.1\Telephony.AssemblyInfo.cs
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.1\Telephony.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\Telephony\obj\Debug\netcoreapp2.1\Telephony.pdb

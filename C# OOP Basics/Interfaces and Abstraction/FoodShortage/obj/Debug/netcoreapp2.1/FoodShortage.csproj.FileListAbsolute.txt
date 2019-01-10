@@ -1,0 +1,11 @@
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.deps.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.runtimeconfig.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.runtimeconfig.dev.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.1\FoodShortage.pdb
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.csprojAssemblyReference.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.AssemblyInfoInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.AssemblyInfo.cs
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.1\FoodShortage.pdb

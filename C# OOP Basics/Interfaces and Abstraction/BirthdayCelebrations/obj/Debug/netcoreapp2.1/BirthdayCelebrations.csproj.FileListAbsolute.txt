@@ -1,0 +1,11 @@
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.deps.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.runtimeconfig.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.runtimeconfig.dev.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\bin\Debug\netcoreapp2.1\BirthdayCelebrations.pdb
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.csprojAssemblyReference.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.AssemblyInfo.cs
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\BirthdayCelebrations\obj\Debug\netcoreapp2.1\BirthdayCelebrations.pdb

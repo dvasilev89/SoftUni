@@ -1,0 +1,11 @@
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.deps.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.runtimeconfig.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.runtimeconfig.dev.json
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineInterfaceIPerson.pdb
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.csprojAssemblyReference.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.AssemblyInfoInputs.cache
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.AssemblyInfo.cs
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.dll
+D:\Visual Studio\C# OOP\Interfaces and Abstraction\DefineInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineInterfaceIPerson.pdb
